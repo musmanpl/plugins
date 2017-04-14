@@ -4,7 +4,7 @@
    	Description: This is our Custom Plugin For Audio Player.
     Author: Muhammad Usman
     Version: 1.0.0
-	GitHub Plugin URI: https://cea.git.beanstalkapp.com/ppa.git
+	GitHub Plugin URI: musmanpl/plugins
 	
     */
 	
