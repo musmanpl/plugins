@@ -3,7 +3,7 @@
     Plugin Name: CEA Audio Player
    	Description: This is our Custom Plugin For Audio Player.
     Author: Muhammad Usman
-    Version: 2.0.0
+    Version: 4.0.0
 	GitHub Plugin URI: musmanpl/plugins
 	
     */
